@@ -20,10 +20,9 @@
 | String Manipulation | 字符串处理插件 |
 | Translation | 谷歌翻译插件 |
 | CamelCase | 转换驼峰插件 |
-| Markdown Navigator | markdown 插件 |
 | BashSupport | Bash支持插件 |
 | CPU Usage Indicator | CPU使用率插件 |
-| Graize | 语法检查插件 |
+| Grazie | 语法检查插件 |
 | jclasslib Bytecode viewer | 字节码查看插件 |
 | SequenceDiagram | UML时序图插件 |
 | Auto filling Java call arguments | 自动填充Java方法默认参数插件 |
@@ -31,7 +30,6 @@
 | Jol java Object Layout | 查看对象占用空间插件 |
 | Python | Python支持插件 |
 | Vue | Vue支持插件 |
-| Cascadia Code | 字体库 |
 
 # Git 提交规范
 
