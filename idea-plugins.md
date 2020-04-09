@@ -20,7 +20,6 @@
 | String Manipulation | 字符串处理插件 |
 | Translation | 谷歌翻译插件 |
 | CamelCase | 转换驼峰插件 |
-| BashSupport | Bash支持插件 |
 | CPU Usage Indicator | CPU使用率插件 |
 | Grazie | 语法检查插件 |
 | jclasslib Bytecode viewer | 字节码查看插件 |
