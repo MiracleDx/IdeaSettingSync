@@ -28,6 +28,8 @@
 | Python | Python支持插件 |
 | Vue | Vue支持插件 |
 | Codota | Codota支持插件 |
+| Git Commit Template | Git提交模板插件 |
+| GitToolBox | Git工具箱 |
 
 # Git 提交规范
 
