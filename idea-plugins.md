@@ -29,7 +29,10 @@
 | Vue | Vue支持插件 |
 | Codota | Codota支持插件 |
 | Git Commit Template | Git提交模板插件 |
-| GitToolBox | Git工具箱 |
+| GitToolBox | Git工具箱插件 |
+| arthas idea | arthas工具插件 |
+| Momo Code Sec Inpector | Momo检查Web安全插件 |
+| SonarLint | bug检查插件 |
 
 # Git 提交规范
 
