@@ -9,7 +9,6 @@
 | GenerateAllSetter | 快速生成所有Setter插件 |
 | GsonFormat | 解析JSON为实体类插件 |
 | IDEA Restart | IDEA重启插件 |
-| Iedis | Redis可视化插件 |
 | Key Promoter X | 快捷键提示插件 |
 | Lombok | lombok 插件 |
 | Maven Helper | Maven依赖助手 |
@@ -31,7 +30,7 @@
 | Git Commit Template | Git提交模板插件 |
 | GitToolBox | Git工具箱插件 |
 | arthas idea | arthas工具插件 |
-| Momo Code Sec Inpector | Momo检查Web安全插件 |
+| Momo Code Sec Inpect | Momo检查Web安全插件 |
 | SonarLint | bug检查插件 |
 
 # Git 提交规范
