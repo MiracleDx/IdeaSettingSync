@@ -7,12 +7,12 @@
 | CodeGlance |  代码区右侧预览图插件 |
 | Free MyBatis plugin | Mybatis使用助手插件 |
 | GenerateAllSetter | 快速生成所有Setter插件 |
-| GsonFormat | 解析JSON为实体类插件 |
+| GsonFormatPlus | 解析JSON为实体类插件 |
 | IDEA Restart | IDEA重启插件 |
 | Key Promoter X | 快捷键提示插件 |
 | Lombok | lombok 插件 |
 | Maven Helper | Maven依赖助手 |
-| MyBatis Log Plugin | Mybatis 日志拼装参数-SQL插件 |
+| MyBatisLogFormat | Mybatis 日志拼装参数-SQL插件 |
 | Nyan Progress Bar | 进度条样式插件 |
 | Rainbow Brackets | 彩色括号插件 |
 | RestfulToolkit | 快速查询Restful API 插件 |
@@ -21,7 +21,6 @@
 | CamelCase | 转换驼峰插件 |
 | Grazie | 语法检查插件 |
 | jclasslib Bytecode viewer | 字节码查看插件 |
-| SequenceDiagram | UML时序图插件 |
 | Auto filling Java call arguments | 自动填充Java方法默认参数插件 |
 | Java Stream Debugger | Stream Debugger插件 |
 | Python | Python支持插件 |
@@ -32,6 +31,8 @@
 | arthas idea | arthas工具插件 |
 | Momo Code Sec Inpect | Momo检查Web安全插件 |
 | SonarLint | bug检查插件 |
+| Atom Material Icons | 图标插件 |
+| Extra Icons | 图标插件 |
 
 # Git 提交规范
 
